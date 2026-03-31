@@ -75,7 +75,7 @@ iris-ml-project/
 Clone the repository:
 
 ```
-git clone https://github.com/yashrajbhawgat7-create/iris-ml-project.git
+git clone https://github.com/yashrajbhawgat7-create/iris_ml_prediction.git
 ```
 
 Install dependencies:
